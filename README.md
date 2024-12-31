@@ -1,1 +1,1 @@
-# practice
+This is a python code that uses the users imput to give back grade averages and the grade letter correlated to the grade average. It uses the tkinter function and can be applied for in the real world.
